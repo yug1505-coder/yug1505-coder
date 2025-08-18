@@ -62,7 +62,4 @@
 
 ---
 
-## 🐍 Live Contribution Snake
-<p align="center">
-  <img src="https://github.com/yug1505-coder/yug1505-coder/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+
