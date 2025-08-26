@@ -59,6 +59,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yug1505-coder&theme=react-dark" alt="Contribution Graph"/>
 </p>
+<!-- Snake Game Repo View -->
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+</p>
 
 ---
 
