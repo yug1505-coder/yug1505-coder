@@ -1,28 +1,29 @@
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Yug Babbar</span></h1>
-<h3 align="center">🚀 Aspiring Full-Stack Engineer</h3>
+<h3 align="center">🚀 Full-Stack Engineer | Passionate About Building Modern Web Experiences</h3>
 
 <!-- GIF Animation -->
-<img align="right" alt="Coding" width="390" 
-     src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/Developer.gif" />
+<img align="right" alt="Coding" width="400" 
+     src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
 ---
 
 ## 👨‍💻 About Me
-- 📫 Email: **yugbabbar@gmail.com**  
-- 🌱 Currently learning **Full-Stack Development (MERN) + Java + SQL**  
-- 💡 I love building **clean UI projects & functional web apps**  
-- 🎯 Goal: To become a **Full-Stack Developer at a product-based company**  
+
+- 📫 Reach me at **yugbabbar@gmail.com**  
+- 🌱 Learning & leveling up in **Full-Stack Development**  
+- 💡 I love building **clean UI**, interactive websites & problem-solving with Java + JS  
+- 🎯 Goal: Become a strong **Full-Stack Developer** with real-world project skills
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yug-babbar-b95434315" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:yugbabbar@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
 </p>
 
@@ -30,40 +31,38 @@
 
 ## 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,sql,bootstrap" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,bootstrap,sqlite" height="45"/>
 </p>
 
 ---
 
 ## 📌 Pinned Project
-### 🚖 **YatraCalci – Smart Cab Fare Estimator**
-🔗 Live Demo: *(after GitHub Pages deployment)*  
-🔗 Repo: https://github.com/yug1505-coder/YatraCalci
 
-> A map-based fare estimation web app with animations, route drawing, and real-time distance calculation.
+### 🚖 **YatraCalci – Map-Based Cab Fare Estimator**
+A modern Uber-style fare calculator with animated UI, Leaflet maps, live distance calculation, route drawing & premium design.
+
+👉 **Repo:** https://github.com/yug1505-coder/YatraCalci  
+👉 **Live Demo:** (Enable GitHub Pages to get your live link)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yug1505-coder&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yug1505-coder&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yug1505-coder&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
----
-
-## 🏔 GitHub 3D Skyline (Premium)
-> Your GitHub contributions shown in **3D animated mountains**  
-Visit: https://skyline.github.com/yug1505-coder
-
-![Skyline](https://user-images.githubusercontent.com/74038190/212284739-6d3466ae-bcd0-4a7b-8e50-006e9b6e5f88.gif)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yug1505-coder&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yug1505-coder&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yug1505-coder&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
----
-
+<!-- Snake Game -->
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+</p>
