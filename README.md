@@ -41,8 +41,9 @@
 ### 🚖 **YatraCalci – Map-Based Cab Fare Estimator**
 A modern Uber-style fare calculator with animated UI, Leaflet maps, live distance calculation, route drawing & premium design.
 
+👉 **Live Demo:** https://yug1505-coder.github.io/YatraCalci/
 👉 **Repo:** https://github.com/yug1505-coder/YatraCalci  
-👉 **Live Demo:** (Enable GitHub Pages to get your live link)
+
 
 ---
 
