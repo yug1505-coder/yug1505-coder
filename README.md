@@ -44,18 +44,6 @@ A modern Uber-style fare calculator with animated UI, Leaflet maps, live distanc
 👉 **Live Demo:** https://yug1505-coder.github.io/YatraCalci/
 👉 **Repo:** https://github.com/yug1505-coder/YatraCalci  
 
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yug1505-coder&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yug1505-coder&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## 📈 Contribution Graph
