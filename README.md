@@ -42,7 +42,13 @@
 A modern Uber-style fare calculator with animated UI, Leaflet maps, live distance calculation, route drawing & premium design.
 
 👉 **Live Demo:** https://yug1505-coder.github.io/YatraCalci/
-👉 **Repo:** https://github.com/yug1505-coder/YatraCalci  
+ 
+
+### 🌐Portfolio Website – Personal Developer Portfolio
+A clean, responsive, and modern personal portfolio website designed to showcase projects, skills, and achievements.
+Built with a minimal, professional UI and smooth layout for both desktop and mobile screens.
+
+👉 **Live Portfolio:** https://yug1505-coder.github.io/Portfolio/
 
 ---
 
