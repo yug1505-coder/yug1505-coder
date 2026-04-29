@@ -7,9 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Java+%7C+JavaScript+%7C+Python;AI+Project+Builder;Consistency+%3E+Motivation" />
 </p>
 
-<!-- Coding GIF -->
-<img align="right" alt="Coding" width="380"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- Coding GIF (Centered) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
 ---
 
@@ -42,15 +43,14 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
-## 🚀 Projects
-
 ### 🤖 AI-Based Task Estimation System (Team Project)
 - Compares **expected vs actual task completion time**
 - Detects **under/over estimation patterns**
-- Provides **rule-based AI suggestions**
+- Provides **rule-based AI suggestions (currently implemented)**
+- 🚧 Machine Learning integration is planned for future enhancement
 - 👨‍💼 Role: **Team Lead (5 members)**  
 
-**Tech:** HTML, CSS, JavaScript, Node.js, SQL  
+**Tech:** HTML, CSS, JavaScript, Node.js, SQL    
 
 ---
 
@@ -75,7 +75,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yug1505-coder&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yug1505-coder&theme=tokyonight" />
 </p>
 
 ---
