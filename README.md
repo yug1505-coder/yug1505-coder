@@ -71,13 +71,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yug1505-coder&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
