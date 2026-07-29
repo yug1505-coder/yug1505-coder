@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Yug Babbar</span></h1>
 
 <h3 align="center">
-🚀 CSE Student | AI Engineer in Progress | Building Full-Stack & AI-Based Applications
+🚀 CSE Student | AI Engineer in Progress | Building Full-Stack & AI Applications
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Java+%7C+Python+%7C+JavaScript;AI+%26+Full+Stack+Developer;DSA+Problem+Solver;Building+Real+World+Projects;Consistency+%3E+Motivation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+JavaScript;AI+%26+Full+Stack+Developer;DSA+Problem+Solver;Building+Real+World+Projects;Consistency+%3E+Motivation" />
 </p>
 
 
@@ -16,15 +16,16 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
 - 🤖 Exploring **Artificial Intelligence, Machine Learning & Agentic AI**
-- 💻 Building **Full-Stack + AI-based applications**
-- 🧠 Practicing **Data Structures & Algorithms with Java**
-- 🚀 Interested in Software Engineering & AI Engineer roles
-- 👨‍💼 Team Lead of AI-Based Task Estimation System (5 members)
-- 🎯 Goal: Become an industry-ready AI Engineer
+- 💻 Building **Full-Stack + AI-powered applications**
+- 🧠 Solving **Data Structures & Algorithms using Java**
+- ⚙️ Learning backend development, databases & system design
+- 👨‍💼 Team Lead of **AI-Based Task Estimation System (5 Members)**
+- 🌱 Interested in **AI Engineer & Software Engineer roles**
+- 🎯 Goal: Build impactful real-world technology
 
 
 ---
@@ -46,7 +47,7 @@
 </p>
 
 
-## 🗄 Database & Tools
+## 🗄 Database & Developer Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
@@ -60,16 +61,16 @@
 
 ## 🤖 AI-Based Task Estimation System (Team Project)
 
-An AI-assisted productivity system that analyzes task estimation accuracy.
+An AI-assisted productivity platform that analyzes task estimation accuracy and provides intelligent insights.
 
 ### Features:
-- 📊 Compares expected vs actual completion time
-- 🔍 Detects under/over estimation patterns
-- 💡 Provides intelligent rule-based suggestions
-- 🚧 Machine Learning integration planned
-- 👨‍💼 Role: Team Lead (5 members)
+- 📊 Compares estimated vs actual task completion time
+- 🔍 Identifies under/over estimation patterns
+- 💡 Provides rule-based intelligent suggestions
+- 🚧 Future scope: Machine Learning prediction model
+- 👨‍💼 Role: Team Lead (5 Members)
 
-**Tech Stack:**
+**Tech Stack**
 ```
 HTML | CSS | JavaScript | Node.js | SQL
 ```
@@ -79,32 +80,30 @@ HTML | CSS | JavaScript | Node.js | SQL
 
 ## 🚖 YatraCalci - Cab Fare Estimator
 
-A map-based cab fare estimation application.
+A map-based cab fare estimation application with interactive route visualization.
 
 ### Features:
-- 🗺 Interactive map integration using Leaflet
+- 🗺 Map integration using Leaflet
 - 📍 Distance calculation
 - 🚕 Route visualization
-- ⚡ Responsive UI
+- ⚡ Responsive user interface
 
-
-Live Demo:
+🔗 Live Demo:
 https://yug1505-coder.github.io/YatraCalci/
 
 
 ---
 
-## 🌐 Personal Portfolio Website
+## 🌐 Portfolio Website
 
-A responsive developer portfolio showcasing my skills and projects.
+Personal developer portfolio showcasing skills, projects and experience.
 
-Features:
-- Modern UI Design
-- Responsive Layout
-- Project Showcase
+### Features:
+- Modern UI design
+- Fully responsive layout
+- Project showcase section
 
-
-Live Demo:
+🔗 Live Demo:
 https://yug1505-coder.github.io/Portfolio/
 
 
@@ -115,16 +114,27 @@ https://yug1505-coder.github.io/Portfolio/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yug1505-coder&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yug1505-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug1505-coder&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug1505-coder&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=yug1505-coder&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=yug1505-coder&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yug1505-coder&theme=tokyo-night"/>
 
 </p>
 
@@ -133,9 +143,10 @@ https://yug1505-coder.github.io/Portfolio/
 
 # 🏆 GitHub Achievements
 
+
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yug1505-coder&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yug1505-coder&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -174,6 +185,6 @@ https://yug1505-coder.github.io/Portfolio/
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yug1505-coder&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=yug1505-coder&label=Profile%20Views&style=flat"/>
 
 </p>
