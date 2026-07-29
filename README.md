@@ -130,14 +130,7 @@ https://yug1505-coder.github.io/Portfolio/
 
 
 ---
-# 🏆 GitHub Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yug1505-coder&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
----
 
 # 🌐 Connect With Me
 
