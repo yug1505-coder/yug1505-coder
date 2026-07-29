@@ -111,23 +111,13 @@ https://yug1505-coder.github.io/Portfolio/
 
 # 📊 GitHub Stats
 
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yug1505-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yug1505-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug1505-coder&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=yug1505-coder&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yug1505-coder&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-
 ---
 
 # 📈 Contribution Graph
@@ -140,17 +130,13 @@ https://yug1505-coder.github.io/Portfolio/
 
 
 ---
-
 # 🏆 GitHub Achievements
-
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yug1505-coder&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yug1505-coder&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
-
-
 ---
 
 # 🌐 Connect With Me
