@@ -96,24 +96,6 @@ A map-based cab fare estimation application with interactive route visualization
 
 ---
 
-## 🌐 Portfolio Website
-
-Personal developer portfolio showcasing my skills, projects and experience.
-
-### Features
-
-- ✨ Modern UI Design
-- 📱 Fully Responsive Layout
-- 💼 Project Showcase
-
-<p>
-<a href="https://yug1505-coder.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00C853?style=for-the-badge"/>
-</a>
-</p>
-
----
-
 # 📊 GitHub Activity
 
 <p align="center">
@@ -127,28 +109,17 @@ Personal developer portfolio showcasing my skills, projects and experience.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yug1505-coder" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/yug1505-coder">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
   </a>
-
-  &nbsp;&nbsp;
-
   <a href="mailto:yugbabbar5@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
   </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/yug1505-coder" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://yug1505-coder.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://github.com/yug1505-coder">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
   </a>
 </p>
+
 ---
 
 # ⚡ Developer Mindset
