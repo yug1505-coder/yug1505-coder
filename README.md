@@ -122,8 +122,6 @@ A map-based cab fare estimation application with interactive route visualization
 </p>
 
 ---
-<!-- Codolio Verification -->
-JcsDNmOM
 
 # ⚡ Developer Mindset
 
