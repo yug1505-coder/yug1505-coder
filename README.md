@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Yug Babbar</span></h1>
+<img width="720" height="408" alt="image" src="https://github.com/user-attachments/assets/6e22cacb-a456-4398-b029-f7f952210bfa" /><h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Yug Babbar</span></h1>
 
 <h3 align="center">
 🚀 CSE Student | AI Engineer in Progress | Building Full-Stack & AI Applications
@@ -62,6 +62,7 @@ An AI-assisted productivity platform that analyzes task estimation accuracy and 
 - 💡 Provides rule-based intelligent suggestions
 - 🚧 Future scope: Machine Learning prediction model
 - 👨‍💼 **Role:** Team Lead (5 Members)
+  
 
 **Tech Stack**
 
@@ -121,6 +122,8 @@ A map-based cab fare estimation application with interactive route visualization
 </p>
 
 ---
+<!-- Codolio Verification -->
+JcsDNmOM
 
 # ⚡ Developer Mindset
 
